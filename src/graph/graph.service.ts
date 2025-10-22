@@ -2,7 +2,6 @@ import { Injectable } from "@nestjs/common";
 
 /**
  * Servicio que define el grafo y permite obtener su estructura.
- * Aquí podrías más adelante actualizar nodos, pesos, etc.
  */
 @Injectable()
 export class GraphService {

@@ -10,7 +10,6 @@ exports.GraphService = void 0;
 const common_1 = require("@nestjs/common");
 /**
  * Servicio que define el grafo y permite obtener su estructura.
- * Aquí podrías más adelante actualizar nodos, pesos, etc.
  */
 let GraphService = class GraphService {
     constructor() {
